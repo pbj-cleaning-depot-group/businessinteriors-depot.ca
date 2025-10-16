@@ -27,7 +27,7 @@
 <meta name="twitter:description" content="PBJ Business Interiors">
 
 
-    <script src="//businessinteriors-depot.ca/cdn/shop/t/1/assets/global.js?v=24850326154503943211662578663" defer="defer"></script>
+    <script src="/cdn/shop/t/1/assets/global40fc.js?v=24850326154503943211662578663" defer="defer"></script>
 <meta name="shopify-checkout-api-token" content="fa7c2322202e05387b430563617956d0">
 <script async="async" src="/checkouts/internal/preloads.js?locale=en-CA"></script>
 <script>var Shopify = Shopify || {};
@@ -44,19 +44,19 @@ Shopify.routes.root = "/";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
 <script id="shop-js-analytics" type="application/json">{"pageType":"404"}</script>
-<script defer="defer" async="async" src="//businessinteriors-depot.ca/cdn/shopifycloud/shop-js/client.js" onload="window.Shopify.SignInWithShop?.initShopCartSync?.({&quot;fedCMEnabled&quot;:true,&quot;windoidEnabled&quot;:true});
+<script defer="defer" async="async" src="/cdn/shopifycloud/shop-js/client.js" onload="window.Shopify.SignInWithShop?.initShopCartSync?.({&quot;fedCMEnabled&quot;:true,&quot;windoidEnabled&quot;:true});
 "></script>
 <script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
 <script id="captcha-bootstrap">!function(){'use strict';const t='contact',e='account',n='new_comment',o=[[t,t],['blogs',n],['comments',n],[t,'customer']],c=[[e,'customer_login'],[e,'guest_login'],[e,'recover_customer_password'],[e,'create_customer']],r=t=>t.map((([t,e])=>`form[action*='/${t}']:not([data-nocaptcha='true']) input[name='form_type'][value='${e}']`)).join(','),a=t=>()=>t?[...document.querySelectorAll(t)].map((t=>t.form)):[];function s(){const t=[...o],e=r(t);return a(e)}const i='password',u='form_key',d=['recaptcha-v3-token','g-recaptcha-response','h-captcha-response',i],f=()=>{try{return window.sessionStorage}catch{return}},m='__shopify_v',_=t=>t.elements[u];function p(t,e,n=!1){try{const o=window.sessionStorage,c=JSON.parse(o.getItem(e)),{data:r}=function(t){const{data:e,action:n}=t;return t[m]||n?{data:e,action:n}:{data:t,action:n}}(c);for(const[e,n]of Object.entries(r))t.elements[e]&&(t.elements[e].value=n);n&&o.removeItem(e)}catch(o){console.error('form repopulation failed',{error:o})}}const l='form_type',E='cptcha';function T(t){t.dataset[E]=!0}const w=window,h=w.document,L='Shopify',v='ce_forms',y='captcha';let A=!1;((t,e)=>{const n=(g='f06e6c50-85a8-45c8-87d0-21a2b65856fe',I='https://cdn.shopify.com/shopifycloud/storefront-forms-hcaptcha/ce_storefront_forms_captcha_hcaptcha.v1.5.2.iife.js',D={infoText:'Protected by hCaptcha',privacyText:'Privacy',termsText:'Terms'},(t,e,n)=>{const o=w[L][v],c=o.bindForm;if(c)return c(t,g,e,D).then(n);var r;o.q.push([[t,g,e,D],n]),r=I,A||(h.body.append(Object.assign(h.createElement('script'),{id:'captcha-provider',async:!0,src:r})),A=!0)});var g,I,D;w[L]=w[L]||{},w[L][v]=w[L][v]||{},w[L][v].q=[],w[L][y]=w[L][y]||{},w[L][y].protect=function(t,e){n(t,void 0,e),T(t)},Object.freeze(w[L][y]),function(t,e,n,w,h,L){const[v,y,A,g]=function(t,e,n){const i=e?o:[],u=t?c:[],d=[...i,...u],f=r(d),m=r(i),_=r(d.filter((([t,e])=>n.includes(e))));return[a(f),a(m),a(_),s()]}(w,h,L),I=t=>{const e=t.target;return e instanceof HTMLFormElement?e:e&&e.form},D=t=>v().includes(t);t.addEventListener('submit',(t=>{const e=I(t);if(!e)return;const n=D(e)&&!e.dataset.hcaptchaBound&&!e.dataset.recaptchaBound,o=_(e),c=g().includes(e)&&(!o||!o.value);(n||c)&&t.preventDefault(),c&&!n&&(function(t){try{if(!f())return;!function(t){const e=f();if(!e)return;const n=_(t);if(!n)return;const o=n.value;o&&e.removeItem(o)}(t);const e=Array.from(Array(32),(()=>Math.random().toString(36)[2])).join('');!function(t,e){_(t)||t.append(Object.assign(document.createElement('input'),{type:'hidden',name:u})),t.elements[u].value=e}(t,e),function(t,e){const n=f();if(!n)return;const o=[...t.querySelectorAll(`input[type='${i}']`)].map((({name:t})=>t)),c=[...d,...o],r={};for(const[a,s]of new FormData(t).entries())c.includes(a)||(r[a]=s);n.setItem(e,JSON.stringify({[m]:1,action:t.action,data:r}))}(t,e)}catch(e){console.error('failed to persist form',e)}}(e),e.submit())}));const S=(t,e)=>{t&&!t.dataset[E]&&(n(t,e.some((e=>e===t))),T(t))};for(const o of['focusin','change'])t.addEventListener(o,(t=>{const e=I(t);D(e)&&S(e,y())}));const B=e.get('form_key'),M=e.get(l),P=B&&M;t.addEventListener('DOMContentLoaded',(()=>{const t=y();if(P)for(const e of t)e.elements[l].value===M&&p(e,B);[...new Set([...A(),...v().filter((t=>'true'===t.dataset.shopifyCaptcha))])].forEach((e=>S(e,t)))}))}(h,new URLSearchParams(w.location.search),n,t,e,['guest_login'])})(!0,!0)}();</script>
-<script integrity="sha256-52AcMU7V7pcBOXWImdc/TAGTFKeNjmkeM1Pvks/DTgc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//businessinteriors-depot.ca/cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js" crossorigin="anonymous"></script>
-<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="https://businessinteriors-depot.ca/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
+<script integrity="sha256-52AcMU7V7pcBOXWImdc/TAGTFKeNjmkeM1Pvks/DTgc=" data-source-attribution="shopify.loadfeatures" defer="defer" src="/cdn/shopifycloud/storefront/assets/storefront/load_feature-81c60534.js" crossorigin="anonymous"></script>
+<script data-source-attribution="shopify.dynamic_checkout.dynamic.init">var Shopify=Shopify||{};Shopify.PaymentButton=Shopify.PaymentButton||{isStorefrontPortableWallets:!0,init:function(){window.Shopify.PaymentButton.init=function(){};var t=document.createElement("script");t.src="/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js",t.type="module",document.head.appendChild(t)}};
 </script>
 <script data-source-attribution="shopify.dynamic_checkout.buyer_consent">
   function portableWalletsHideBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.add("hidden"),t.setAttribute("aria-hidden","true"),n.removeEventListener("click",e))}function portableWalletsShowBuyerConsent(e){var t=document.getElementById("shopify-buyer-consent"),n=document.getElementById("shopify-subscription-policy-button");t&&n&&(t.classList.remove("hidden"),t.removeAttribute("aria-hidden"),n.addEventListener("click",e))}window.Shopify?.PaymentButton&&(window.Shopify.PaymentButton.hideBuyerConsent=portableWalletsHideBuyerConsent,window.Shopify.PaymentButton.showBuyerConsent=portableWalletsShowBuyerConsent);
 </script>
 <script data-source-attribution="shopify.dynamic_checkout.cart.bootstrap">document.addEventListener("DOMContentLoaded",(function(){function t(){return document.querySelector("shopify-accelerated-checkout-cart, shopify-accelerated-checkout")}if(t())Shopify.PaymentButton.init();else{new MutationObserver((function(e,n){t()&&(Shopify.PaymentButton.init(),n.disconnect())})).observe(document.body,{childList:!0,subtree:!0})}}));
 </script>
-<link id="shopify-accelerated-checkout-styles" rel="stylesheet" media="screen" href="https://businessinteriors-depot.ca/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
+<link id="shopify-accelerated-checkout-styles" rel="stylesheet" media="screen" href="/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css" crossorigin="anonymous">
 <style id="shopify-accelerated-checkout-cart">
         #shopify-buyer-consent {
   margin-top: 1em;
@@ -82,7 +82,7 @@ Shopify.routes.root = "/";</script>
 }
 
       </style>
-<script id="sections-script" data-sections="header,footer" defer="defer" src="//businessinteriors-depot.ca/cdn/shop/t/1/compiled_assets/scripts.js?477"></script>
+<script id="sections-script" data-sections="header,footer" defer="defer" src="/cdn/shop/t/1/compiled_assets/scripts7407.js?477"></script>
 <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
 
 
@@ -92,8 +92,8 @@ Shopify.routes.root = "/";</script>
   font-weight: 400;
   font-style: normal;
   font-display: swap;
-  src: url("//businessinteriors-depot.ca/cdn/fonts/archivo/archivo_n4.dc8d917cc69af0a65ae04d01fd8eeab28a3573c9.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=01d8b01c5a39b32c698f62717fade5317e5dedcfb81287f392be56930d5149ef") format("woff2"),
-       url("//businessinteriors-depot.ca/cdn/fonts/archivo/archivo_n4.bd6b9c34fdb81d7646836be8065ce3c80a2cc984.woff?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=1a48fa817e4007825330acb230f4d97ef358c1bc86e853d9b24c65729fb7525b") format("woff");
+  src: url("/cdn/fonts/archivo/archivo_n4.dc8d917cc69af0a65ae04d01fd8eeab28a3573c92ba7.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=01d8b01c5a39b32c698f62717fade5317e5dedcfb81287f392be56930d5149ef") format("woff2"),
+       url("/cdn/fonts/archivo/archivo_n4.bd6b9c34fdb81d7646836be8065ce3c80a2cc984c337.woff?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=1a48fa817e4007825330acb230f4d97ef358c1bc86e853d9b24c65729fb7525b") format("woff");
 }
 
       @font-face {
@@ -101,8 +101,8 @@ Shopify.routes.root = "/";</script>
   font-weight: 700;
   font-style: normal;
   font-display: swap;
-  src: url("//businessinteriors-depot.ca/cdn/fonts/archivo/archivo_n7.651b020b3543640c100112be6f1c1b8e816c7f13.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=a67ef18d54f8d64289ebc187da404feff133eb55a97677ea745274df2b6eb4f3") format("woff2"),
-       url("//businessinteriors-depot.ca/cdn/fonts/archivo/archivo_n7.7e9106d320e6594976a7dcb57957f3e712e83c96.woff?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=422ed1c3895f5c28955b58329511b82534f1aa9c8fad81fd57afb08861bc9ac7") format("woff");
+  src: url("/cdn/fonts/archivo/archivo_n7.651b020b3543640c100112be6f1c1b8e816c7f136412.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=a67ef18d54f8d64289ebc187da404feff133eb55a97677ea745274df2b6eb4f3") format("woff2"),
+       url("/cdn/fonts/archivo/archivo_n7.7e9106d320e6594976a7dcb57957f3e712e83c9695f8.woff?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=422ed1c3895f5c28955b58329511b82534f1aa9c8fad81fd57afb08861bc9ac7") format("woff");
 }
 
       @font-face {
@@ -110,8 +110,8 @@ Shopify.routes.root = "/";</script>
   font-weight: 400;
   font-style: italic;
   font-display: swap;
-  src: url("//businessinteriors-depot.ca/cdn/fonts/archivo/archivo_i4.37d8c4e02dc4f8e8b559f47082eb24a5c48c2908.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=c4a417692fc4160c16de009258368430e50b604e49fb3221de47ffb7c26f736d") format("woff2"),
-       url("//businessinteriors-depot.ca/cdn/fonts/archivo/archivo_i4.839d35d75c605237591e73815270f86ab696602c.woff?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=ace4cd3bdb0b47ec1fb64fb64d8cd380f63e09a703b67634787049f2cf97c1db") format("woff");
+  src: url("/cdn/fonts/archivo/archivo_i4.37d8c4e02dc4f8e8b559f47082eb24a5c48c29087a1e.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=c4a417692fc4160c16de009258368430e50b604e49fb3221de47ffb7c26f736d") format("woff2"),
+       url("/cdn/fonts/archivo/archivo_i4.839d35d75c605237591e73815270f86ab696602c5037.woff?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=ace4cd3bdb0b47ec1fb64fb64d8cd380f63e09a703b67634787049f2cf97c1db") format("woff");
 }
 
       @font-face {
@@ -119,8 +119,8 @@ Shopify.routes.root = "/";</script>
   font-weight: 700;
   font-style: italic;
   font-display: swap;
-  src: url("//businessinteriors-depot.ca/cdn/fonts/archivo/archivo_i7.3dc798c6f261b8341dd97dd5c78d97d457c63517.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=90c363ca7ebbcb4d3fd84dba41cd8a6d87f0817b0c848728b492ebc5a921f628") format("woff2"),
-       url("//businessinteriors-depot.ca/cdn/fonts/archivo/archivo_i7.3b65e9d326e7379bd5f15bcb927c5d533d950ff6.woff?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=49ad54efc5e80b25266dd013ee16e23ab1098c7908eb0ac3eb187ef07e0f73ca") format("woff");
+  src: url("/cdn/fonts/archivo/archivo_i7.3dc798c6f261b8341dd97dd5c78d97d457c6351742cb.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=90c363ca7ebbcb4d3fd84dba41cd8a6d87f0817b0c848728b492ebc5a921f628") format("woff2"),
+       url("/cdn/fonts/archivo/archivo_i7.3b65e9d326e7379bd5f15bcb927c5d533d950ff62293.woff?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=49ad54efc5e80b25266dd013ee16e23ab1098c7908eb0ac3eb187ef07e0f73ca") format("woff");
 }
 
       @font-face {
@@ -128,8 +128,8 @@ Shopify.routes.root = "/";</script>
   font-weight: 400;
   font-style: normal;
   font-display: swap;
-  src: url("//businessinteriors-depot.ca/cdn/fonts/chivo/chivo_n4.059fadbbf52d9f02350103459eb216e4b24c4661.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=4edf26777f42d39b96a393fbea6363ed46d10e394fb878f6f93c55444ba4e6b5") format("woff2"),
-       url("//businessinteriors-depot.ca/cdn/fonts/chivo/chivo_n4.f2f8fca8b7ff9f510fa7f09ffe5448b3504bccf5.woff?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=43a4831eb53a4d2bd906bd515e1a30353c38dc942d4d3ed2095a6b9cb758489b") format("woff");
+  src: url("/cdn/fonts/chivo/chivo_n4.059fadbbf52d9f02350103459eb216e4b24c46612b29.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=4edf26777f42d39b96a393fbea6363ed46d10e394fb878f6f93c55444ba4e6b5") format("woff2"),
+       url("/cdn/fonts/chivo/chivo_n4.f2f8fca8b7ff9f510fa7f09ffe5448b3504bccf54291.woff?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=43a4831eb53a4d2bd906bd515e1a30353c38dc942d4d3ed2095a6b9cb758489b") format("woff");
 }
 
 
@@ -282,11 +282,15 @@ Shopify.routes.root = "/";</script>
       }
     </style>
 
-    <link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/base.css?v=69352775065886943731682970824" rel="stylesheet" type="text/css" media="all" />
-<link rel="preload" as="font" href="//businessinteriors-depot.ca/cdn/fonts/archivo/archivo_n4.dc8d917cc69af0a65ae04d01fd8eeab28a3573c9.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=01d8b01c5a39b32c698f62717fade5317e5dedcfb81287f392be56930d5149ef" type="font/woff2" crossorigin><link rel="preload" as="font" href="//businessinteriors-depot.ca/cdn/fonts/chivo/chivo_n4.059fadbbf52d9f02350103459eb216e4b24c4661.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=4edf26777f42d39b96a393fbea6363ed46d10e394fb878f6f93c55444ba4e6b5" type="font/woff2" crossorigin><link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-predictive-search.css?v=165644661289088488651662578659" media="print" onload="this.media='all'"><script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
-    if (Shopify.designMode) {
-      document.documentElement.classList.add('shopify-design-mode');
-    }
+    <link href="/cdn/shop/t/1/assets/base1c9a.css?v=69352775065886943731682970824" rel="stylesheet" type="text/css" media="all" />
+    <link rel="preload" as="font" href="/cdn/fonts/archivo/archivo_n4.dc8d917cc69af0a65ae04d01fd8eeab28a3573c92ba7.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=01d8b01c5a39b32c698f62717fade5317e5dedcfb81287f392be56930d5149ef" type="font/woff2" crossorigin>
+    <link rel="preload" as="font" href="/cdn/fonts/chivo/chivo_n4.059fadbbf52d9f02350103459eb216e4b24c46612b29.woff2?h1=cGJqLWJ1c2luZXNzLWludGVyaW9ycy5hY2NvdW50Lm15c2hvcGlmeS5jb20&h2=YnVzaW5lc3NpbnRlcmlvcnMtZGVwb3QuY2E&hmac=4edf26777f42d39b96a393fbea6363ed46d10e394fb878f6f93c55444ba4e6b5" type="font/woff2" crossorigin>
+    <link rel="stylesheet" href="/cdn/shop/t/1/assets/component-predictive-search4072.css?v=165644661289088488651662578659" media="print" onload="this.media='all'">
+    <script>
+      document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+      if (Shopify.designMode) {
+        document.documentElement.classList.add('shopify-design-mode');
+      }
     </script>
   
   <!-- "snippets/shogun-head.liquid" was not rendered, the associated app was uninstalled -->
@@ -352,16 +356,18 @@ Shopify.routes.root = "/";</script>
       Skip to content
     </a><div id="shopify-section-announcement-bar" class="shopify-section">
 </div>
-    <div id="shopify-section-header" class="shopify-section section-header"><link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991662578667" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-search.css?v=96455689198851321781662578653" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-menu-drawer.css?v=182311192829367774911662578656" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-cart-notification.css?v=119852831333870967341662578650" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-cart-items.css?v=23917223812499722491662578679" media="print" onload="this.media='all'"><link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-price.css?v=112673864592427438181662578656" media="print" onload="this.media='all'">
-  <link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-loading-overlay.css?v=167310470843593579841662578682" media="print" onload="this.media='all'"><noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991662578667" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-search.css?v=96455689198851321781662578653" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-menu-drawer.css?v=182311192829367774911662578656" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-cart-notification.css?v=119852831333870967341662578650" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-cart-items.css?v=23917223812499722491662578679" rel="stylesheet" type="text/css" media="all" /></noscript>
+    <div id="shopify-section-header" class="shopify-section section-header"><link rel="stylesheet" href="/cdn/shop/t/1/assets/component-list-menudfbc.css?v=151968516119678728991662578667" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-searchbfc7.css?v=96455689198851321781662578653" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-menu-drawer2799.css?v=182311192829367774911662578656" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-cart-notification2546.css?v=119852831333870967341662578650" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-cart-items204c.css?v=23917223812499722491662578679" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-price9462.css?v=112673864592427438181662578656" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-loading-overlaya0a8.css?v=167310470843593579841662578682" media="print" onload="this.media='all'">
+<noscript><link href="/cdn/shop/t/1/assets/component-list-menudfbc.css?v=151968516119678728991662578667" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="/cdn/shop/t/1/assets/component-searchbfc7.css?v=96455689198851321781662578653" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="/cdn/shop/t/1/assets/component-menu-drawer2799.css?v=182311192829367774911662578656" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="/cdn/shop/t/1/assets/component-cart-notification2546.css?v=119852831333870967341662578650" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="/cdn/shop/t/1/assets/component-cart-items204c.css?v=23917223812499722491662578679" rel="stylesheet" type="text/css" media="all" /></noscript>
 
 <style>
   header-drawer {
@@ -437,9 +443,9 @@ Shopify.routes.root = "/";</script>
       padding-top: 20px;
       padding-bottom: 20px;
     }
-  }</style><script src="//businessinteriors-depot.ca/cdn/shop/t/1/assets/details-disclosure.js?v=153497636716254413831662578676" defer="defer"></script>
-<script src="//businessinteriors-depot.ca/cdn/shop/t/1/assets/details-modal.js?v=4511761896672669691662578675" defer="defer"></script>
-<script src="//businessinteriors-depot.ca/cdn/shop/t/1/assets/cart-notification.js?v=31179948596492670111662578655" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
+  }</style><script src="/cdn/shop/t/1/assets/details-disclosure0969.js?v=153497636716254413831662578676" defer="defer"></script>
+<script src="/cdn/shop/t/1/assets/details-modalab96.js?v=4511761896672669691662578675" defer="defer"></script>
+<script src="/cdn/shop/t/1/assets/cart-notificationd1ac.js?v=31179948596492670111662578655" defer="defer"></script><svg xmlns="http://www.w3.org/2000/svg" class="hidden">
   <symbol id="icon-search" viewbox="0 0 18 19" fill="none">
     <path fill-rule="evenodd" clip-rule="evenodd" d="M11.03 11.68A5.784 5.784 0 112.85 3.5a5.784 5.784 0 018.18 8.18zm.26 1.12a6.78 6.78 0 11.72-.7l5.4 5.4a.5.5 0 11-.71.7l-5.41-5.4z" fill="currentColor"/>
   </symbol>
@@ -530,7 +536,7 @@ Shopify.routes.root = "/";</script>
             </div>
           </div>
         </details>
-      </header-drawer><a href="/" class="header__heading-link link link--text focus-inset"><img src="//businessinteriors-depot.ca/cdn/shop/files/PBJ_Business_Interiors_Logo_-_Transparent.png?v=1682346681" alt="PBJ Business Interiors" width="250" height="128.4101599247413" class="header__heading-logo">
+      </header-drawer><a href="/" class="header__heading-link link link--text focus-inset"><img src="/cdn/shop/files/PBJ_Business_Interiors_Logo_-_Transparente3e5.png?v=1682346681" alt="PBJ Business Interiors" width="250" height="128.4101599247413" class="header__heading-logo">
 </a><nav class="header__inline-menu">
           <ul class="list-menu list-menu--inline" role="list"><li><a href="/" class="header__menu-item header__menu-item list-menu__item link link--text focus-inset">
                     <span>Home</span>
@@ -658,7 +664,7 @@ Item added to your cart</h2>
     "@type": "Organization",
     "name": "PBJ Business Interiors",
     
-      "logo": "https:\/\/businessinteriors-depot.ca\/cdn\/shop\/files\/PBJ_Business_Interiors_Logo_-_Transparent.png?v=1682346681\u0026width=1063",
+      "logo": "https:\/\/businessinteriors-depot.ca\/cdn\/shop\/files\/PBJ_Business_Interiors_Logo_-_Transparente3e5.png?v=1682346681\u0026width=1063",
     
     "sameAs": [
       "",
@@ -703,20 +709,20 @@ Item added to your cart</h2>
     </main>
 
     <div id="shopify-section-footer" class="shopify-section">
-<link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/section-footer.css?v=83777583229853969691662578681" rel="stylesheet" type="text/css" media="all" />
-<link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-newsletter.css?v=103472482056003053551662578677" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991662578667" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-list-payment.css?v=69253961410771838501662578661" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-list-social.css?v=52211663153726659061662578652" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-rte.css?v=69919436638515329781662578677" media="print" onload="this.media='all'">
-<link rel="stylesheet" href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/disclosure.css?v=646595190999601341662578661" media="print" onload="this.media='all'">
+<link href="/cdn/shop/t/1/assets/section-footerf1d2.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-newsletter1268.css" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-list-menudfbc.css" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-list-payment3f61.css" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-list-social0a04.css" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/component-rte26c2.css" media="print" onload="this.media='all'">
+<link rel="stylesheet" href="/cdn/shop/t/1/assets/disclosure55a4.css" media="print" onload="this.media='all'">
 
-<noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-newsletter.css?v=103472482056003053551662578677" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-list-menu.css?v=151968516119678728991662578667" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-list-payment.css?v=69253961410771838501662578661" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-list-social.css?v=52211663153726659061662578652" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/component-rte.css?v=69919436638515329781662578677" rel="stylesheet" type="text/css" media="all" /></noscript>
-<noscript><link href="//businessinteriors-depot.ca/cdn/shop/t/1/assets/disclosure.css?v=646595190999601341662578661" rel="stylesheet" type="text/css" media="all" /></noscript><style data-shopify>.footer {
+<noscript><link href="/cdn/shop/t/1/assets/component-newsletter1268.css" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="/cdn/shop/t/1/assets/component-list-menudfbc.css" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="/cdn/shop/t/1/assets/component-list-payment3f61.css" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="/cdn/shop/t/1/assets/component-list-social0a04.css" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="/cdn/shop/t/1/assets/component-rte26c2.css" rel="stylesheet" type="text/css" media="all" /></noscript>
+<noscript><link href="/cdn/shop/t/1/assets/disclosure55a4.css" rel="stylesheet" type="text/css" media="all" /></noscript><style data-shopify>.footer {
     margin-top: 36px;
   }
 
@@ -813,7 +819,7 @@ Item added to your cart</h2>
         pauseSlideshow: `Pause slideshow`,
         playSlideshow: `Play slideshow`,
       }
-    </script><script src="//businessinteriors-depot.ca/cdn/shop/t/1/assets/predictive-search.js?v=31278710863581584031662578665" defer="defer"></script><!--Content in content_for_footer -->
+    </script><script src="/cdn/shop/t/1/assets/predictive-searchd94c.js" defer="defer"></script><!--Content in content_for_footer -->
 
 			
 <!--LH--></body>
