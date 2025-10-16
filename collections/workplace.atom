@@ -1,0 +1,1140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://businessinteriors-depot.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://businessinteriors-depot.ca/collections/workplace.atom"/>
+  <title>PBJ Business Interiors</title>
+  <updated>2024-07-23T11:12:53-04:00</updated>
+  <author>
+    <name>PBJ Business Interiors</name>
+  </author>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713458618483</id>
+    <published>2024-07-23T11:12:53-04:00</published>
+    <updated>2024-07-23T11:12:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/uni-desk-chair"/>
+    <title>uni desk,chair</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/AK014380f-2-972x515.jpg?v=1721747565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713458618483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713457340531</id>
+    <published>2024-07-23T11:11:50-04:00</published>
+    <updated>2024-07-23T11:11:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/ny-office"/>
+    <title>ny office</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Tayco_Shoot_120715_FullRes-1-972x515.jpg?v=1721747499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713457340531</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713452720243</id>
+    <published>2024-07-23T11:09:11-04:00</published>
+    <updated>2024-07-23T11:09:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/folding-chairs-and-board-room-table"/>
+    <title>folding chairs and board room table</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/RMN8525-HDR-972x515.jpg?v=1721747332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713452720243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713443872883</id>
+    <published>2024-07-23T11:01:54-04:00</published>
+    <updated>2024-07-23T11:01:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/diana-food-desk-and-chair"/>
+    <title>diana food desk and chair</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Gallery_1-1.jpg?v=1721746908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713443872883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713420771443</id>
+    <published>2024-07-23T10:42:41-04:00</published>
+    <updated>2024-07-23T10:42:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/cubicles-2"/>
+    <title>cubicles 2</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/6.jpg?v=1721745750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713420771443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713414021235</id>
+    <published>2024-07-23T10:38:42-04:00</published>
+    <updated>2024-07-23T10:38:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sit-stand"/>
+    <title>sit stand</title>
+    <s:type>Desks</s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/TaycoCaseStudyMay202243of6-972x515.jpg?v=1721745514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong>Desks<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713414021235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713412415603</id>
+    <published>2024-07-23T10:37:33-04:00</published>
+    <updated>2024-07-23T10:37:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/4-desks"/>
+    <title>4 desks</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/19-972x515.jpg?v=1721745443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713412415603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713411268723</id>
+    <published>2024-07-23T10:36:53-04:00</published>
+    <updated>2024-07-23T10:36:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/desk-w-chairs-and-hutch"/>
+    <title>desk w chairs and hutch</title>
+    <s:type>Desks</s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/6-972x515.jpg?v=1721745393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong>Desks<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713411268723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713405206643</id>
+    <published>2024-07-23T10:32:26-04:00</published>
+    <updated>2024-07-23T10:32:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/cubicles"/>
+    <title>cubicles</title>
+    <s:type>Desks</s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/13704_003-972x515.jpg?v=1721745102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong>Desks<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713405206643</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7698695061619</id>
+    <published>2024-07-10T16:19:38-04:00</published>
+    <updated>2024-07-10T16:19:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/goree-front-desk"/>
+    <title>goree front desk</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Goree1.jpg?v=1720642767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7698695061619</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7698689785971</id>
+    <published>2024-07-10T16:12:25-04:00</published>
+    <updated>2024-07-10T16:12:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/amphenol-desks"/>
+    <title>amphenol desks</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/TaycoCaseStudyMay202271of1-972x515.jpg?v=1720642326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7698689785971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7698687524979</id>
+    <published>2024-07-10T16:10:44-04:00</published>
+    <updated>2024-07-10T16:10:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/break-room"/>
+    <title>break room</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/TaycoCaseStudyMay20222of2-972x515.jpg?v=1720642233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7698687524979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7698685231219</id>
+    <published>2024-07-10T16:08:13-04:00</published>
+    <updated>2024-07-10T16:08:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/pinnacle-wealth"/>
+    <title>pinnacle wealth</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/DSC02491.jpg?v=1720642084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7698685231219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7698679267443</id>
+    <published>2024-07-10T16:00:41-04:00</published>
+    <updated>2024-07-10T16:00:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/engineering-board-room"/>
+    <title>engineering board room</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Lochner-Tayco-Case-Study-OKC-10.5.2023-9-972x515.jpg?v=1720641626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7698679267443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7698675695731</id>
+    <published>2024-07-10T15:56:53-04:00</published>
+    <updated>2024-07-10T15:56:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/aubainerie"/>
+    <title>Aubainerie</title>
+    <s:type></s:type>
+    <s:vendor>Tayco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Humanfashionation-by-Blanchette-_Co-Photo-_-Alex-Lesage-19-972x515_a698c17a-3a73-4642-ac08-009f51d3f40e.jpg?v=1720641366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tayco<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7698675695731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7650104639603</id>
+    <published>2024-06-12T16:39:16-04:00</published>
+    <updated>2024-06-12T16:39:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/tayco-chg-meridian"/>
+    <title>Tayco CHG Meridian</title>
+    <s:type></s:type>
+    <s:vendor>Tayco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/13291_010-972x515.jpg?v=1718224717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tayco<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7650104639603</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7135447646323</id>
+    <published>2023-05-03T21:27:19-04:00</published>
+    <updated>2023-05-03T21:27:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/picnic"/>
+    <title>Picnic</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Hightower</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Picnic.png?v=1683164513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hightower<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by +Halle’s Annual Briefing topic of “Sharing”, design studio Form Us With Love was intentional about creating a piece that would bring people back together. Whether standing for a quick meeting at one of the bar-height options or enjoying a meal together at the low-height models, there is something special about how Picnic engages its users in face-to-face interaction.</p>
+<p>A simple concept intended to draw people in, Picnic incorporates seating and a table into one unit that can serve as a meeting, dining, and collaboration zone. Build a sense of community while maintaining a tidy space by utilizing Picnic, available in 2 heights and 2 sizes.</p>
+<p><span style="text-decoration: underline;">Heights</span><br></p>
+<ul>
+<li>Cafe - 18.9" Seat Height, 28.3" Table Height</li>
+<li>Bar - 31.1" Seat Height, 39.4" Table Height</li>
+</ul>
+<p><span style="text-decoration: underline;">Sizes</span></p>
+<ul>
+<li>Regular - 59" D</li>
+<li>Large - 70.9" D</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135447646323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7135447580787</id>
+    <published>2023-05-03T21:18:20-04:00</published>
+    <updated>2023-05-03T21:18:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/prism"/>
+    <title>Prism</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Hightower</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Prism_1.png?v=1683163102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hightower<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Prism was designed to meet the demands of the ever-evolving collaborative workspace.</span></p>
+<p><span>With many different configurations, Prism can help you achieve intimate working alcoves or expansive seating islands in a large open space. Choose small, medium, or large units, with or without backs, and integrate the optional Pivot Tables to create an instant workstation. Prism lets you personalize the space and meet client-specific needs!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135447580787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+    <published>2023-04-20T08:41:14-04:00</published>
+    <updated>2023-04-20T08:41:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/pashley"/>
+    <title>Pashley</title>
+    <s:type>Desks</s:type>
+    <s:vendor>Offices To Go</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/products/ML4830OGD.jpg?v=1681994294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Offices To Go<br>
+        <strong>Type: </strong>Desks<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pashley combines simplicity and elegance with superior strength + stability. As a desk or a small meeting table, it offers a mid-century modern vibe that adapts well in professional or home office spaces.</p>
+<h3>Features:</h3>
+<ul>
+<li>Pashley's tapered angled legs offer a mid-century vibe and adapts well to small office or home office with commercial grade performance.</li>
+<li>Simplicity and elegance supported with superior strength and stability.</li>
+<li>1" thick thermally fused laminate worksurfaces.</li>
+<li>15 standard worksurface finishes to choose from.</li>
+<li>Easy to assemble</li>
+<li>Meets applicable ANSI/BIFMA x5.5 standards.</li>
+<li>Laminate tops backed by Global's Lifetime Warranty.</li>
+<li>Greenguard Certified.</li>
+</ul>
+<p> </p>
+<h4>Construction:</h4>
+<ul>
+<li>Tops are made from 45 lb. density particle board covered with thermally fused laminate on both sides with 2mm matching edge band.</li>
+<li>Welded metal legs with mechanically connected frame.</li>
+<li>Legs and frames finished in a highly durable powder coated paint finish.</li>
+<li>Leveling glides included.</li>
+</ul>
+<h6> </h6>
+<h4>Finish Options:</h4>
+<p>Laminate finish: Available in all Ionic finishes<br>Metal Leg finish: Available in flat Pearl color only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>48&quot; x 24&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>60&quot; x 24&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>72&quot; x 24&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>48&quot; x 30&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>60&quot; x 30&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>72&quot; x 30&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130047610995</id>
+    <published>2023-04-19T15:38:04-04:00</published>
+    <updated>2023-04-19T15:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/format-high-back"/>
+    <title>Format High Back</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>Offices To Go</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/FormatMainProductImage.png?v=1682962693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Offices To Go<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Features:</h4>
+<ul>
+<li>Synchro-tilt mechanism</li>
+<li>Ratchet back height adjustment</li>
+<li>Upright position tilt-lock and tilt-tension adjustment</li>
+<li>Adjustable headrest</li>
+<li>Height and width adjustable arms with soft-skinned urethane armcaps that slide forward and backward</li>
+<li>Dual wheel carpet casters</li>
+<li>Pneumatic seat height adjustment<br><br>
+</li>
+</ul>
+<h4>Specifications:<br>
+</h4>
+<p><em>(with headrest)</em></p>
+<ul>
+<li>Dimensions: 24.5" W x 23"D x 50.5"H</li>
+<li>Seat Height: 16" - 20"</li>
+<li>Weight: 45 lbs/20.4 kg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Chair</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130047610995</id>
+      <title>Highback</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130047610995</id>
+      <title>Highback with Headrest</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130030407795</id>
+    <published>2023-04-19T15:11:45-04:00</published>
+    <updated>2023-04-19T15:11:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/geo-low-back-office-chair"/>
+    <title>Geo Mesh Low Back</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>Offices To Go</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/GeoMainProductImage.png?v=1682964793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Offices To Go<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Features:</h3>
+<ul>
+<li>Tilter mechanism</li>
+<li>Upright position tilt lock</li>
+<li>Tilt tension adjustment</li>
+<li>Loop style fixed polypropylene arms</li>
+<li>Dual wheel carpet casters</li>
+<li>Pneumatic seat height adjustment</li>
+<li>Black fabric seat with Black mesh back</li>
+</ul>
+<h4>Specifications:</h4>
+<ul>
+<li>Dimensions: 22"W x 21"D x 38"H</li>
+<li>Seat Height: 16.5" - 20.5"</li>
+<li>Weight: 30 lbs/13.6 kg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Chair</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130030407795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130029424755</id>
+    <published>2023-04-19T15:06:22-04:00</published>
+    <updated>2023-04-19T15:06:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/zim-office-chair"/>
+    <title>Zim Mesh High Back</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>Offices To Go</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/products/DBE_OTG11351B_Front.jpg?v=1681931185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Offices To Go<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<strong>Features:</strong><br>
+</h3>
+<ul>
+<li>Synchro-tilt mechanism</li>
+<li>Wrap round mesh back design</li>
+<li>Black polyester seat with the choice of a grey or black mesh back</li>
+<li>Height adjustable T-arms with soft urethane armcaps</li>
+<li>Multi position tilt-lock and weight sensing tension</li>
+<li>Seat depth adjustment</li>
+<li>Pneumatic seat height adjustment</li>
+</ul>
+<h4>Specifications:</h4>
+<ul>
+<li>Dimensions: 26"W x 24.5"D x 43"H</li>
+<li>Seat Height: 18" - 22.5"</li>
+<li>Weight: 37.5 lbs/17.0 kg</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Chair</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130029424755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130026705011</id>
+    <published>2023-04-19T14:55:07-04:00</published>
+    <updated>2023-04-19T14:55:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/ionic-reception-suite"/>
+    <title>Ionic</title>
+    <s:type>Reception Desks</s:type>
+    <s:vendor>Offices To Go</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/IonicMainProductImage.png?v=1682966575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Offices To Go<br>
+        <strong>Type: </strong>Reception Desks<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ionic offers a range of mix and match components that can be easily configured to suit any office. Design details include thermally fused laminate surfaces, durable 2mm PVC edge, leveling glides and superior hardware.</p>
+<p><strong>Package Includes:</strong><br><span>Reception Desk</span><br><span>Return</span><br><span>Reception Desk Top</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130026705011</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7078038438003</id>
+    <published>2023-01-06T14:20:30-05:00</published>
+    <updated>2023-01-06T14:20:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/hexy-office-chair"/>
+    <title>Hexy</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>SitOnIt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/HexyMainProductImage.png?v=1682964998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SitOnIt<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description">
+<h3 class="title lubalin-book"><em>Make room for vroom.</em></h3>
+<div class="description">
+<p>Hexy® is what happens when you let inspiration drive innovation – and engineer ergonomics right into the frame. Its hexagon core creates natural support so there’s no need for external lumbar controls, and the high-performing mesh fuses with the extra-wide backrest seamlessly. It’s the ultimate seat for action-packed (and comfort-backed) environments.</p>
+</div>
+<div class="productDescImage image parbase">
+<h3>Features: <br>
+</h3>
+<ul>
+<li>Extra-wide backrest with innovative hexagon core provides integrated ergonomics</li>
+<li>Ultra-supportive performance mesh seamlessly fuses with a lightweight frame</li>
+<li>Aerodynamic adjustable arms and pull-handle offer active comfort and convenience</li>
+<li>10 mesh colors and three frame colors let you customize your way</li>
+<li>Mechanism options: Basic, standard synchro or swivel-tilt</li>
+<li>Adjustable arm options: height only or height and width</li>
+<li>Standard 300 lb weight capacity warranty</li>
+</ul>
+</div>
+</div>
+<div class="product-description-image">
+<div data-picture="">
+<div data-media="(min-width: 1px)" data-src="/content/dam/exemplis/webimages/product/hexy/limbo/SOI-Hexy-PDP-Limbo-1024x1024.png.transform/mobile/img.png"><br></div>
+<div data-media="(min-width: 768px)" data-src="/content/dam/exemplis/webimages/product/hexy/limbo/SOI-Hexy-PDP-Limbo-1024x1024.png.transform/tablet/img.png"><br></div>
+<div data-media="(min-width: 1025px)" data-src="/content/dam/exemplis/webimages/product/hexy/limbo/SOI-Hexy-PDP-Limbo-1024x1024.png.transform/desktop/img.png"><br></div>
+</div>
+</div>
+<ul data-mce-fragment="1"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Chair</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7078038438003</id>
+      <title>Midback</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7078038438003</id>
+      <title>Highback</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7078038438003</id>
+      <title>Midback Stool</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7078037979251</id>
+    <published>2023-01-06T14:12:21-05:00</published>
+    <updated>2023-01-06T14:12:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/king-cobra-monitor-arm"/>
+    <title>King Cobra</title>
+    <s:type>Monitor Arms</s:type>
+    <s:vendor>SitOnIt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/products/King-Cobra-Options-single-750x750.jpg?v=1673032342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SitOnIt<br>
+        <strong>Type: </strong>Monitor Arms<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="title lubalin-book" data-mce-fragment="1"><em>Charmed by design.</em></h3>
+<div class="description" data-mce-fragment="1">
+<p data-mce-fragment="1">Strike at the heart of productivity with the King Cobra collection of monitor arms. Sleek design, smooth operation, unmatched performance and rugged reliability combine to meet the demands of today’s modern office.</p>
+<p data-mce-fragment="1"> </p>
+<h3>Features:</h3>
+<ul>
+<li>Available in four configuration: Single, HD Single, HD Dual Array and HD Dual High Splitter</li>
+<li>Features two power and two USB outlets</li>
+<li>Adjustable rotation limiter helps restrict arm rotation to 180 degrees</li>
+<li>Maximum arm extension: 24.75 inches</li>
+<li>Power outlet: 120 volts</li>
+<li>USB port: 5 volts, 2.1 amps</li>
+<li>Weight capacity: up to 20 lb; up to 30 lb for HD.</li>
+<li>Includes clamp and grommet mount</li>
+<li>Quick-release VESA</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7078037979251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://businessinteriors-depot.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://businessinteriors-depot.ca/collections/educational.atom"/>
+  <title>PBJ Business Interiors</title>
+  <updated>2024-07-24T11:43:57-04:00</updated>
+  <author>
+    <name>PBJ Business Interiors</name>
+  </author>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715704569971</id>
+    <published>2024-07-24T11:43:57-04:00</published>
+    <updated>2024-07-24T11:43:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/norix-education"/>
+    <title>norix education</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Justice_library_header.webp?v=1721835827"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715704569971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715699097715</id>
+    <published>2024-07-24T11:37:13-04:00</published>
+    <updated>2024-07-24T11:37:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/horizontal-slider"/>
+    <title>horizontal slider</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Horizontal-Slider-Lifestyle-v2.jpg?v=1721835407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715699097715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715698671731</id>
+    <published>2024-07-24T11:36:22-04:00</published>
+    <updated>2024-07-24T11:36:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/egan-cork-board"/>
+    <title>egan cork board</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Cork-Board-Image-V3-scaled.jpg?v=1721835372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715698671731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715694706803</id>
+    <published>2024-07-24T11:30:33-04:00</published>
+    <updated>2024-07-24T11:30:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sitonit-education-6"/>
+    <title>sitonit education 6</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/education_tile-728x577_Group_Collaborative.jpg?v=1721835024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715694706803</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715694084211</id>
+    <published>2024-07-24T11:29:51-04:00</published>
+    <updated>2024-07-24T11:29:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sitonit-education-5"/>
+    <title>sitonit education 5</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/img_3.jpg?v=1721834987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715694084211</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715692740723</id>
+    <published>2024-07-24T11:27:16-04:00</published>
+    <updated>2024-07-24T11:27:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/green-spaces-library"/>
+    <title>green spaces library</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/cam0-00000-scaled.jpg?v=1721834833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715692740723</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715692413043</id>
+    <published>2024-07-24T11:26:49-04:00</published>
+    <updated>2024-07-24T11:26:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/green-spaces-benches-working"/>
+    <title>green spaces benches working</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/gfc-uofm-07-1.jpg?v=1721834806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715692413043</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715690840179</id>
+    <published>2024-07-24T11:24:18-04:00</published>
+    <updated>2024-07-24T11:24:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/tayco-kubo-locker"/>
+    <title>tayco kubo locker</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Tayco-Tower-Typical-1-Proof-3-972x515_1.jpg?v=1721834655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715690840179</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715687071859</id>
+    <published>2024-07-24T11:20:03-04:00</published>
+    <updated>2024-07-24T11:20:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sitonit-education-4"/>
+    <title>sitonit education 4</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/education_tile-728x577_Makerspace_Lab.jpg?v=1721834396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715687071859</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715686842483</id>
+    <published>2024-07-24T11:19:40-04:00</published>
+    <updated>2024-07-24T11:19:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sitonit-education-3"/>
+    <title>sitonit education 3</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/img_2.jpg?v=1721834374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715686842483</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715686416499</id>
+    <published>2024-07-24T11:18:45-04:00</published>
+    <updated>2024-07-24T11:18:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sitonit-education-2"/>
+    <title>sitonit education 2</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/img_1.jpg?v=1721834313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715686416499</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715685924979</id>
+    <published>2024-07-24T11:18:13-04:00</published>
+    <updated>2024-07-24T11:18:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sitonit-education-1"/>
+    <title>sitonit education 1</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/img.jpg?v=1721834249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715685924979</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715683041395</id>
+    <published>2024-07-24T11:13:53-04:00</published>
+    <updated>2024-07-24T11:13:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/green-spaces-educational"/>
+    <title>green spaces educational</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/cam6c-00000-scaled.jpg?v=1721834015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715683041395</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715680026739</id>
+    <published>2024-07-24T11:11:02-04:00</published>
+    <updated>2024-07-24T11:11:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/great-openings-lockers"/>
+    <title>great openings lockers</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Commons-2-scaled.jpg?v=1721833846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715680026739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715677667443</id>
+    <published>2024-07-24T11:08:31-04:00</published>
+    <updated>2024-07-24T11:08:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/grc-education"/>
+    <title>grc education</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/about-7.jpg?v=1721833703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715677667443</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715676717171</id>
+    <published>2024-07-24T11:07:38-04:00</published>
+    <updated>2024-07-24T11:07:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/desks-double-whiteboard"/>
+    <title>desks &amp; double whiteboard</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/VerticalSlide_BeigeCorners-scaled.jpg?v=1721833642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715676717171</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715675930739</id>
+    <published>2024-07-24T11:06:46-04:00</published>
+    <updated>2024-07-24T11:06:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/classroom"/>
+    <title>classroom</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Height_Adjustable_Tables-1-1-jpeg-1-1000x667.jpg?v=1721833589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715675930739</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7135447646323</id>
+    <published>2023-05-03T21:27:19-04:00</published>
+    <updated>2023-05-03T21:27:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/picnic"/>
+    <title>Picnic</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Hightower</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Picnic.png?v=1683164513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hightower<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by +Halle’s Annual Briefing topic of “Sharing”, design studio Form Us With Love was intentional about creating a piece that would bring people back together. Whether standing for a quick meeting at one of the bar-height options or enjoying a meal together at the low-height models, there is something special about how Picnic engages its users in face-to-face interaction.</p>
+<p>A simple concept intended to draw people in, Picnic incorporates seating and a table into one unit that can serve as a meeting, dining, and collaboration zone. Build a sense of community while maintaining a tidy space by utilizing Picnic, available in 2 heights and 2 sizes.</p>
+<p><span style="text-decoration: underline;">Heights</span><br></p>
+<ul>
+<li>Cafe - 18.9" Seat Height, 28.3" Table Height</li>
+<li>Bar - 31.1" Seat Height, 39.4" Table Height</li>
+</ul>
+<p><span style="text-decoration: underline;">Sizes</span></p>
+<ul>
+<li>Regular - 59" D</li>
+<li>Large - 70.9" D</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135447646323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7135447580787</id>
+    <published>2023-05-03T21:18:20-04:00</published>
+    <updated>2023-05-03T21:18:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/prism"/>
+    <title>Prism</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Hightower</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Prism_1.png?v=1683163102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hightower<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Prism was designed to meet the demands of the ever-evolving collaborative workspace.</span></p>
+<p><span>With many different configurations, Prism can help you achieve intimate working alcoves or expansive seating islands in a large open space. Choose small, medium, or large units, with or without backs, and integrate the optional Pivot Tables to create an instant workstation. Prism lets you personalize the space and meet client-specific needs!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135447580787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130626982003</id>
+    <published>2023-04-20T20:03:13-04:00</published>
+    <updated>2023-04-20T20:03:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/facelift-serpentine-benches"/>
+    <title>Facelift Serpentine</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Trinity Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/SerpentineMainProductImage.png?v=1682962320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trinity Furniture<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Serpentine is a unique renewable seating and table alternative to existing healthcare and high traffic interior applications. Part of our Facelift Collection, Serpentine consists of individual lounge chairs / sofas, straight and wedge lounge component seating, benches, and tables. A variety of upholstered, wood, urethane and tablet arms are integrated into this extremely flexible seating collection. Made in the USA with a Lifetime Warranty.</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Facelift_Serpentine_Brochure.pdf?v=1682035232" target="_blank" rel="noopener noreferrer"><strong>Facelift Serpentine Brochure</strong></a></p>
+<p><span><a title="Facelift Sleepover" href="https://youtu.be/s6BKWWIsqpY" data-mce-href="https://youtu.be/s6BKWWIsqpY" target="_blank"><strong>Trinity Facelift Video</strong></a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130626982003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+    <published>2023-04-20T08:51:45-04:00</published>
+    <updated>2023-04-20T08:51:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/crest-privacy-lounge-ottoman"/>
+    <title>Crest Privacy</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Trinity Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/CrestMainProductImage.png?v=1682962139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trinity Furniture<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The newest addition to Trinity Furniture's lounge seating features a new silhouette with softly padded arms that flow into sculptural wings that are shaped to offer a sanctuary of privacy. Crest is crafted with elegant stitching details and seating comfort is enhanced with the addition of an attached headrest pillow. Additionally, base selections include tapered wooden legs, metal tubular legs, and a flat polished aluminum base for the Crest lounge pieces, as well as for the matching ottomans.</span></p>
+<h4><span>Specifications:</span></h4>
+<p><span style="text-decoration: underline;">Lounge Chair</span></p>
+<ul>
+<li>31.5" W x 31" D x 45.5" H</li>
+<li>75 lbs</li>
+</ul>
+<p><span style="text-decoration: underline;">Ottoman</span></p>
+<ul>
+<li>25.25" W x 21.75" D x 15" H</li>
+<li>30 lbs</li>
+</ul>
+<h3><span></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Healthcare</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+      <title>Wooden Legs</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+      <title>Metal Legs</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+      <title>Aluminum Base</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7078037979251</id>
+    <published>2023-01-06T14:12:21-05:00</published>
+    <updated>2023-01-06T14:12:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/king-cobra-monitor-arm"/>
+    <title>King Cobra</title>
+    <s:type>Monitor Arms</s:type>
+    <s:vendor>SitOnIt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/products/King-Cobra-Options-single-750x750.jpg?v=1673032342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SitOnIt<br>
+        <strong>Type: </strong>Monitor Arms<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="title lubalin-book" data-mce-fragment="1"><em>Charmed by design.</em></h3>
+<div class="description" data-mce-fragment="1">
+<p data-mce-fragment="1">Strike at the heart of productivity with the King Cobra collection of monitor arms. Sleek design, smooth operation, unmatched performance and rugged reliability combine to meet the demands of today’s modern office.</p>
+<p data-mce-fragment="1"> </p>
+<h3>Features:</h3>
+<ul>
+<li>Available in four configuration: Single, HD Single, HD Dual Array and HD Dual High Splitter</li>
+<li>Features two power and two USB outlets</li>
+<li>Adjustable rotation limiter helps restrict arm rotation to 180 degrees</li>
+<li>Maximum arm extension: 24.75 inches</li>
+<li>Power outlet: 120 volts</li>
+<li>USB port: 5 volts, 2.1 amps</li>
+<li>Weight capacity: up to 20 lb; up to 30 lb for HD.</li>
+<li>Includes clamp and grommet mount</li>
+<li>Quick-release VESA</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7078037979251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

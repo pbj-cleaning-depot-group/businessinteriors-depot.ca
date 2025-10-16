@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://businessinteriors-depot.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://businessinteriors-depot.ca/collections/home-office.atom"/>
+  <title>PBJ Business Interiors</title>
+  <updated>2024-07-24T11:59:29-04:00</updated>
+  <author>
+    <name>PBJ Business Interiors</name>
+  </author>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715723083891</id>
+    <published>2024-07-24T11:59:29-04:00</published>
+    <updated>2024-07-24T11:59:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/ergocentric-home-office"/>
+    <title>ergocentric home office</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/work-environments-HomeOffice.jpg?v=1721836759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home Office</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715723083891</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+    <published>2023-04-20T08:41:14-04:00</published>
+    <updated>2023-04-20T08:41:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/pashley"/>
+    <title>Pashley</title>
+    <s:type>Desks</s:type>
+    <s:vendor>Offices To Go</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/products/ML4830OGD.jpg?v=1681994294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Offices To Go<br>
+        <strong>Type: </strong>Desks<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pashley combines simplicity and elegance with superior strength + stability. As a desk or a small meeting table, it offers a mid-century modern vibe that adapts well in professional or home office spaces.</p>
+<h3>Features:</h3>
+<ul>
+<li>Pashley's tapered angled legs offer a mid-century vibe and adapts well to small office or home office with commercial grade performance.</li>
+<li>Simplicity and elegance supported with superior strength and stability.</li>
+<li>1" thick thermally fused laminate worksurfaces.</li>
+<li>15 standard worksurface finishes to choose from.</li>
+<li>Easy to assemble</li>
+<li>Meets applicable ANSI/BIFMA x5.5 standards.</li>
+<li>Laminate tops backed by Global's Lifetime Warranty.</li>
+<li>Greenguard Certified.</li>
+</ul>
+<p> </p>
+<h4>Construction:</h4>
+<ul>
+<li>Tops are made from 45 lb. density particle board covered with thermally fused laminate on both sides with 2mm matching edge band.</li>
+<li>Welded metal legs with mechanically connected frame.</li>
+<li>Legs and frames finished in a highly durable powder coated paint finish.</li>
+<li>Leveling glides included.</li>
+</ul>
+<h6> </h6>
+<h4>Finish Options:</h4>
+<p>Laminate finish: Available in all Ionic finishes<br>Metal Leg finish: Available in flat Pearl color only</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>48&quot; x 24&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>60&quot; x 24&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>72&quot; x 24&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>48&quot; x 30&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>60&quot; x 30&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130055835763</id>
+      <title>72&quot; x 30&quot;</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130047610995</id>
+    <published>2023-04-19T15:38:04-04:00</published>
+    <updated>2023-04-19T15:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/format-high-back"/>
+    <title>Format High Back</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>Offices To Go</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/FormatMainProductImage.png?v=1682962693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Offices To Go<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4>Features:</h4>
+<ul>
+<li>Synchro-tilt mechanism</li>
+<li>Ratchet back height adjustment</li>
+<li>Upright position tilt-lock and tilt-tension adjustment</li>
+<li>Adjustable headrest</li>
+<li>Height and width adjustable arms with soft-skinned urethane armcaps that slide forward and backward</li>
+<li>Dual wheel carpet casters</li>
+<li>Pneumatic seat height adjustment<br><br>
+</li>
+</ul>
+<h4>Specifications:<br>
+</h4>
+<p><em>(with headrest)</em></p>
+<ul>
+<li>Dimensions: 24.5" W x 23"D x 50.5"H</li>
+<li>Seat Height: 16" - 20"</li>
+<li>Weight: 45 lbs/20.4 kg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Chair</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130047610995</id>
+      <title>Highback</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130047610995</id>
+      <title>Highback with Headrest</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130030407795</id>
+    <published>2023-04-19T15:11:45-04:00</published>
+    <updated>2023-04-19T15:11:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/geo-low-back-office-chair"/>
+    <title>Geo Mesh Low Back</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>Offices To Go</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/GeoMainProductImage.png?v=1682964793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Offices To Go<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Features:</h3>
+<ul>
+<li>Tilter mechanism</li>
+<li>Upright position tilt lock</li>
+<li>Tilt tension adjustment</li>
+<li>Loop style fixed polypropylene arms</li>
+<li>Dual wheel carpet casters</li>
+<li>Pneumatic seat height adjustment</li>
+<li>Black fabric seat with Black mesh back</li>
+</ul>
+<h4>Specifications:</h4>
+<ul>
+<li>Dimensions: 22"W x 21"D x 38"H</li>
+<li>Seat Height: 16.5" - 20.5"</li>
+<li>Weight: 30 lbs/13.6 kg</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Chair</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130030407795</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130029424755</id>
+    <published>2023-04-19T15:06:22-04:00</published>
+    <updated>2023-04-19T15:06:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/zim-office-chair"/>
+    <title>Zim Mesh High Back</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>Offices To Go</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/products/DBE_OTG11351B_Front.jpg?v=1681931185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Offices To Go<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>
+<strong>Features:</strong><br>
+</h3>
+<ul>
+<li>Synchro-tilt mechanism</li>
+<li>Wrap round mesh back design</li>
+<li>Black polyester seat with the choice of a grey or black mesh back</li>
+<li>Height adjustable T-arms with soft urethane armcaps</li>
+<li>Multi position tilt-lock and weight sensing tension</li>
+<li>Seat depth adjustment</li>
+<li>Pneumatic seat height adjustment</li>
+</ul>
+<h4>Specifications:</h4>
+<ul>
+<li>Dimensions: 26"W x 24.5"D x 43"H</li>
+<li>Seat Height: 18" - 22.5"</li>
+<li>Weight: 37.5 lbs/17.0 kg</li>
+</ul>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Chair</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130029424755</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7078038438003</id>
+    <published>2023-01-06T14:20:30-05:00</published>
+    <updated>2023-01-06T14:20:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/hexy-office-chair"/>
+    <title>Hexy</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>SitOnIt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/HexyMainProductImage.png?v=1682964998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SitOnIt<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description">
+<h3 class="title lubalin-book"><em>Make room for vroom.</em></h3>
+<div class="description">
+<p>Hexy® is what happens when you let inspiration drive innovation – and engineer ergonomics right into the frame. Its hexagon core creates natural support so there’s no need for external lumbar controls, and the high-performing mesh fuses with the extra-wide backrest seamlessly. It’s the ultimate seat for action-packed (and comfort-backed) environments.</p>
+</div>
+<div class="productDescImage image parbase">
+<h3>Features: <br>
+</h3>
+<ul>
+<li>Extra-wide backrest with innovative hexagon core provides integrated ergonomics</li>
+<li>Ultra-supportive performance mesh seamlessly fuses with a lightweight frame</li>
+<li>Aerodynamic adjustable arms and pull-handle offer active comfort and convenience</li>
+<li>10 mesh colors and three frame colors let you customize your way</li>
+<li>Mechanism options: Basic, standard synchro or swivel-tilt</li>
+<li>Adjustable arm options: height only or height and width</li>
+<li>Standard 300 lb weight capacity warranty</li>
+</ul>
+</div>
+</div>
+<div class="product-description-image">
+<div data-picture="">
+<div data-media="(min-width: 1px)" data-src="/content/dam/exemplis/webimages/product/hexy/limbo/SOI-Hexy-PDP-Limbo-1024x1024.png.transform/mobile/img.png"><br></div>
+<div data-media="(min-width: 768px)" data-src="/content/dam/exemplis/webimages/product/hexy/limbo/SOI-Hexy-PDP-Limbo-1024x1024.png.transform/tablet/img.png"><br></div>
+<div data-media="(min-width: 1025px)" data-src="/content/dam/exemplis/webimages/product/hexy/limbo/SOI-Hexy-PDP-Limbo-1024x1024.png.transform/desktop/img.png"><br></div>
+</div>
+</div>
+<ul data-mce-fragment="1"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Chair</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7078038438003</id>
+      <title>Midback</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7078038438003</id>
+      <title>Highback</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7078038438003</id>
+      <title>Midback Stool</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7078037979251</id>
+    <published>2023-01-06T14:12:21-05:00</published>
+    <updated>2023-01-06T14:12:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/king-cobra-monitor-arm"/>
+    <title>King Cobra</title>
+    <s:type>Monitor Arms</s:type>
+    <s:vendor>SitOnIt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/products/King-Cobra-Options-single-750x750.jpg?v=1673032342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SitOnIt<br>
+        <strong>Type: </strong>Monitor Arms<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="title lubalin-book" data-mce-fragment="1"><em>Charmed by design.</em></h3>
+<div class="description" data-mce-fragment="1">
+<p data-mce-fragment="1">Strike at the heart of productivity with the King Cobra collection of monitor arms. Sleek design, smooth operation, unmatched performance and rugged reliability combine to meet the demands of today’s modern office.</p>
+<p data-mce-fragment="1"> </p>
+<h3>Features:</h3>
+<ul>
+<li>Available in four configuration: Single, HD Single, HD Dual Array and HD Dual High Splitter</li>
+<li>Features two power and two USB outlets</li>
+<li>Adjustable rotation limiter helps restrict arm rotation to 180 degrees</li>
+<li>Maximum arm extension: 24.75 inches</li>
+<li>Power outlet: 120 volts</li>
+<li>USB port: 5 volts, 2.1 amps</li>
+<li>Weight capacity: up to 20 lb; up to 30 lb for HD.</li>
+<li>Includes clamp and grommet mount</li>
+<li>Quick-release VESA</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7078037979251</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7077570347123</id>
+    <published>2023-01-06T10:40:45-05:00</published>
+    <updated>2023-01-06T10:40:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/j1-chair"/>
+    <title>J1</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>Tayco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/J1MainProductImage.png?v=1682966677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tayco<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Get comfortable in Tayco’s signature J1 task chair!</p>
+<p data-mce-fragment="1">Truly designed to support users throughout the workday with fully functioning lumbar support and a synchro-tilt mechanism for the ultimate in back support. The task chair also features a 3D armrest, and optional seat slider, making ergonomic positioning a breeze. J1’s light, stylish aesthetic is combined with a breathable mesh back available in grey and black to suit your personal style.</p>
+<h3 data-mce-fragment="1">Features:</h3>
+<ul>
+<li>Mesh back</li>
+<li>Dual Surface Casters</li>
+<li>Optional aluminum base</li>
+<li>Fixed arm option for conference rooms</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>Designer&apos;s Choice</s:tag>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Chair</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7077570347123</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7077496094835</id>
+    <published>2023-01-05T11:33:03-05:00</published>
+    <updated>2023-01-05T11:33:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/medley-stripe-wallcovering"/>
+    <title>Medley Stripe Wallcovering</title>
+    <s:type>Wallcoverings</s:type>
+    <s:vendor>Carnegie</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/MedleyMainProductImage.png?v=1682967126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carnegie<br>
+        <strong>Type: </strong>Wallcoverings<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-description-row">
+<div class="about-advantages__slogan"><em><strong>Like vinyl, but better.</strong></em></div>
+<div class="about-advantages__slogan"><em><strong></strong></em></div>
+<p>Make walls come to life like never before. Carnegie has pioneered the development of PVC-free digitally printed wallcoverings. Digital printing offers a vast range of color choices and scale that are unmatched by traditional roller printing‚ allowing designers more opportunities than ever to create beautiful interiors with high impact. Medley Stripe's reinterpretation of a stripe adds a painterly texture that heightens with subtleties within each hue. Medley Stripe is reminiscent of bamboo and natural forests and evokes a mood of tranquillity that will enhance the ambiance in any space. </p>
+<p>Medley Stripe meets or exceeds requirements for a type II wallcovering under CCC-W-408D.</p>
+</div>
+<div class="product-description-row">
+<strong><span class="product-description-title">Backing (as stocked): </span></strong><span class="product-description-text">Non Woven</span>
+</div>
+<div class="product-description-row">
+<span class="product-description-title"><strong>Finish/es (as stocked):</strong> </span><span class="product-description-text">Finish-Free</span>
+</div>
+<div class="product-description-row">
+<strong><span class="product-description-title">Available Finish(es): </span></strong><span class="product-description-text">Microventing</span>
+</div>
+<div class="product-description-row">
+<span class="product-description-title"><strong>Width:</strong> </span><span class="product-description-text">52" (132 cm)</span>
+</div>
+<div class="product-description-row">
+<span class="product-description-title"><strong>Weight per Linear Yard:</strong> </span><span class="product-description-text">18 oz</span>
+</div>
+<div class="product-description-row">
+<span class="product-description-title"><strong>Contents:</strong> </span><span class="product-description-text">Digitally Printed TPO Technology - 90% Thermoplastic Olefin, 10% Post Consumer Recycled Glass</span>
+</div>
+<div class="product-description-row">
+<span class="product-description-title"><strong>Cleaning Code:</strong> </span><span class="product-description-text">W &amp; BC - Water &amp; Bleach Cleanable</span>
+</div>
+<div class="product-description-row">
+<span class="product-description-title"><strong>Flammability:</strong> </span><span class="product-description-text">ASTM E84 Class A / Class 1, </span><span class="product-description-text">Canadian ULC S102</span>
+</div>
+<div class="product-description-row">
+<strong><span class="product-description-title">Manufactured In: </span></strong><span class="product-description-text">USA</span>
+</div>
+<div class="product-description-row">
+<span class="product-description-title"><strong>Warranty:</strong> </span><span class="product-description-text">10 years</span>
+</div>
+<div class="product-description-row">
+<span class="product-description-title"><strong>Performance:</strong> </span><span class="product-description-text">Meets or exceeds requirements of a Type II wallcovering under CCC-W-408D</span>
+</div>
+<div class="product-description-row">
+<span class="product-description-title"><strong>Repeat:</strong> </span><span class="product-description-text">165" (419 cm) Length x 52" (132 cm) Width</span>
+</div>
+<div class="product-description-row">
+<span class="product-description-title"><strong>Copyright:</strong> </span><span class="product-description-text">© 2019 Carnegie Fabrics</span>
+</div>
+<div class="product-description-row">
+<strong><span class="product-description-title">ACT Symbols: </span></strong><span class="product-description-text"><img loading="lazy" height="50" width="47" alt="" src="https://carnegiefabrics.com/static/version1671784766/frontend/Carnegie/base/default/images/act-symbols/colorfastness-to-light.png"><span> </span><img loading="lazy" height="50" width="36" alt="" src="https://carnegiefabrics.com/static/version1671784766/frontend/Carnegie/base/default/images/act-symbols/flammability.png"><span> </span><img loading="lazy" height="50" width="48" alt="" src="https://carnegiefabrics.com/static/version1671784766/frontend/Carnegie/base/default/images/act-symbols/physical-properties.png"><span> </span><img loading="lazy" height="50" width="45" alt="" src="https://carnegiefabrics.com/static/version1671784766/frontend/Carnegie/base/default/images/act-symbols/wet-dry-crocking.png"></span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Wallcovering</s:tag>
+    <s:tag>Wallpaper</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7077496094835</id>
+      <title>50</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>8126-50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7077496094835</id>
+      <title>51</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>8126-51</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7077496094835</id>
+      <title>52</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku>8126-52</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7069698883699</id>
+    <published>2022-12-21T16:56:14-05:00</published>
+    <updated>2022-12-21T16:56:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/volley-height-adjustable-table"/>
+    <title>Volley Height Adjustable Table</title>
+    <s:type>Height Adjustable Desk</s:type>
+    <s:vendor>Tayco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/VolleyMainProductImage.png?v=1682967311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tayco<br>
+        <strong>Type: </strong>Height Adjustable Desk<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><strong>Features:</strong></h3>
+<ul>
+<li>Base Colours: Black, Silver, White</li>
+<li>Three-stage telescopic legs with individual motors</li>
+<li>Four memory pre-set</li>
+<li>Highest Position: 50”</li>
+<li>Lowest Position: 24”</li>
+<li>Load capacity at 120 kg for two legs and 150 kg for three-legs, including worksurface</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7069698883699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7069678895219</id>
+    <published>2022-12-21T15:40:37-05:00</published>
+    <updated>2022-12-21T15:40:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/focus-2-0-ergonomic-office-chair"/>
+    <title>Focus 2.0</title>
+    <s:type>Office Chair</s:type>
+    <s:vendor>SitOnIt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Focus2.0MainProductImage.png?v=1682962492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SitOnIt<br>
+        <strong>Type: </strong>Office Chair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">Features:</h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Midback and highback task chairs and midback stool</li>
+<li data-mce-fragment="1">Slimmer, refined design</li>
+<li data-mce-fragment="1">Swivel-tilt and enhanced synchro mechanism</li>
+<li data-mce-fragment="1">Modernized Y-support customizable in four colors, including piano black</li>
+<li data-mce-fragment="1">Three frame and four base colors</li>
+<li data-mce-fragment="1">Armless, height-adjustable, height-/width-adjustable or fully adjustable arms</li>
+<li data-mce-fragment="1">12 accent colors for pull handle stripe, lumbar casing, arm adjustment and caster rings</li>
+<li data-mce-fragment="1">Three exclusive mesh options in Focus mesh, Focus 2.0 mesh and Focus Uptown mesh</li>
+<li data-mce-fragment="1">Adjustable lumbar support included</li>
+<li data-mce-fragment="1">Performance casters color coordinate with frame and base</li>
+<li data-mce-fragment="1">300 lb weight capacity warranty</li>
+<li data-mce-fragment="1">All options and thousands of fabrics ship in 2, 5 or 10 days</li>
+<li data-mce-fragment="1">Lifetime warranty </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Best Sellers</s:tag>
+    <s:tag>Designer&apos;s Choice</s:tag>
+    <s:tag>Ergonomic</s:tag>
+    <s:tag>Home Office</s:tag>
+    <s:tag>Office Chair</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7069678895219</id>
+      <title>Midback</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7069678895219</id>
+      <title>Highback</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7069678895219</id>
+      <title>Midback Stool</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

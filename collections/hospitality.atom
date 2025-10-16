@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://businessinteriors-depot.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://businessinteriors-depot.ca/collections/hospitality.atom"/>
+  <title>PBJ Business Interiors</title>
+  <updated>2024-07-23T12:12:12-04:00</updated>
+  <author>
+    <name>PBJ Business Interiors</name>
+  </author>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713538539635</id>
+    <published>2024-07-23T12:12:12-04:00</published>
+    <updated>2024-07-23T12:12:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/hosp-dark"/>
+    <title>hosp dark</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/strike2.webp?v=1721751122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713538539635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713535983731</id>
+    <published>2024-07-23T12:10:42-04:00</published>
+    <updated>2024-07-23T12:10:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/yellow-blue-chair"/>
+    <title>yellow blue chair</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/845_Hula_HoneyYellow_DustyBlue_Cobalt_Greywhite_HigherEd1.jpg?v=1721751025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713535983731</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713535033459</id>
+    <published>2024-07-23T12:10:11-04:00</published>
+    <updated>2024-07-23T12:10:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sherman-2"/>
+    <title>sherman 2</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/sherman-chairs-brady-stools-boss-rambler-banner.jpg?v=1721751005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713535033459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713534443635</id>
+    <published>2024-07-23T12:09:36-04:00</published>
+    <updated>2024-07-23T12:09:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sherman"/>
+    <title>sherman</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/130_Sherman__Barstool_Frankie_Table_DeGama_ChaseDanielPhoto2.webp?v=1721750971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713534443635</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713533231219</id>
+    <published>2024-07-23T12:08:23-04:00</published>
+    <updated>2024-07-23T12:08:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/peixoto"/>
+    <title>peixoto</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Peixoto-KB-GRCC-1_Web.webp?v=1721750890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713533231219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713532838003</id>
+    <published>2024-07-23T12:07:56-04:00</published>
+    <updated>2024-07-23T12:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/blue-stools"/>
+    <title>blue stools</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/IMG_6099_Web.webp?v=1721750864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713532838003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713532313715</id>
+    <published>2024-07-23T12:07:26-04:00</published>
+    <updated>2024-07-23T12:07:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/babas-stools"/>
+    <title>babas stools</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Babas_Marketing-sally-stools-banner.jpg?v=1721750836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713532313715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713531002995</id>
+    <published>2024-07-23T12:06:09-04:00</published>
+    <updated>2024-07-23T12:06:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/staud"/>
+    <title>staud</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Staud_221101_0375.webp?v=1721750763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713531002995</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713530511475</id>
+    <published>2024-07-23T12:05:34-04:00</published>
+    <updated>2024-07-23T12:05:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sea-grill-bar-stools"/>
+    <title>sea grill bar stools</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/The-Sea-Grille-sigsbee-bartools.jpg?v=1721750725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713530511475</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713529692275</id>
+    <published>2024-07-23T12:04:51-04:00</published>
+    <updated>2024-07-23T12:04:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/frankie-table"/>
+    <title>frankie table</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Frankie_Table_Dining_CustomColor_Hickory_SCAD_Forty_Claycorp-copy-1.jpg?v=1721750679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713529692275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713523073139</id>
+    <published>2024-07-23T11:59:49-04:00</published>
+    <updated>2024-07-23T11:59:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sossego-2"/>
+    <title>sossego 2</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/200921_405-2-low-scaled.webp?v=1721750386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713523073139</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713522352243</id>
+    <published>2024-07-23T11:58:57-04:00</published>
+    <updated>2024-07-23T11:58:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sossego-1"/>
+    <title>sossego 1</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/200921_403-2-low-scaled.webp?v=1721750333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713522352243</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713487683699</id>
+    <published>2024-07-23T11:36:20-04:00</published>
+    <updated>2024-07-23T11:36:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/hosp-couch"/>
+    <title>hosp couch</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/hosptouch.webp?v=1721748971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713487683699</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713472544883</id>
+    <published>2024-07-23T11:23:27-04:00</published>
+    <updated>2024-07-23T11:23:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/hosp-4"/>
+    <title>hosp 4</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Rectangle_129_2.jpg?v=1721748203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713472544883</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713471660147</id>
+    <published>2024-07-23T11:22:41-04:00</published>
+    <updated>2024-07-23T11:22:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/hosp-3"/>
+    <title>hosp 3</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Rectangle_106_3.jpg?v=1721748158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713471660147</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713468055667</id>
+    <published>2024-07-23T11:20:48-04:00</published>
+    <updated>2024-07-23T11:20:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/hosp-2"/>
+    <title>hosp 2</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Rectangle_137_f1cdf75d-29a2-4ed9-8145-bb6b4cde8e52.jpg?v=1721748036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713468055667</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713466253427</id>
+    <published>2024-07-23T11:19:55-04:00</published>
+    <updated>2024-07-23T11:19:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/hosp-1"/>
+    <title>hosp 1</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Rectangle_128_2.jpg?v=1721747984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713466253427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7135447646323</id>
+    <published>2023-05-03T21:27:19-04:00</published>
+    <updated>2023-05-03T21:27:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/picnic"/>
+    <title>Picnic</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Hightower</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Picnic.png?v=1683164513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hightower<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Inspired by +Halle’s Annual Briefing topic of “Sharing”, design studio Form Us With Love was intentional about creating a piece that would bring people back together. Whether standing for a quick meeting at one of the bar-height options or enjoying a meal together at the low-height models, there is something special about how Picnic engages its users in face-to-face interaction.</p>
+<p>A simple concept intended to draw people in, Picnic incorporates seating and a table into one unit that can serve as a meeting, dining, and collaboration zone. Build a sense of community while maintaining a tidy space by utilizing Picnic, available in 2 heights and 2 sizes.</p>
+<p><span style="text-decoration: underline;">Heights</span><br></p>
+<ul>
+<li>Cafe - 18.9" Seat Height, 28.3" Table Height</li>
+<li>Bar - 31.1" Seat Height, 39.4" Table Height</li>
+</ul>
+<p><span style="text-decoration: underline;">Sizes</span></p>
+<ul>
+<li>Regular - 59" D</li>
+<li>Large - 70.9" D</li>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:tag>Workplace</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135447646323</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7135446007923</id>
+    <published>2023-05-03T21:08:17-04:00</published>
+    <updated>2023-05-03T21:08:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/nest-tables"/>
+    <title>Nest Tables</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Hightower</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/1_7.png?v=1683165084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hightower<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span>The Nest Collection includes lounge sofas, chairs, and tables in two heights, encouraging a more social atmosphere. Use the varying heights together or separately to create both balance and division within a space.</p>
+<p><span>The Nest Table collection brings a whole new level of sophistication to a traditional seating environment. With its sturdy powder coated steel base and Soft Touch Laminate top, these aren't your average tables. Whether its touching down for quick chat over coffee, or spending hours collaborating on big plans, the Nest Tables provide a perfectly comfortable and engaging place to convene. </span></p>
+<p><span>Available in:</span></p>
+<p><span style="text-decoration: underline;"><span mce-data-marked="1">Table Size</span></span></p>
+<ul>
+<li>Small - 29.5" D<br>
+</li>
+<li>Large - 62.75" W x 29.75" D</li>
+</ul>
+<p><span style="text-decoration: underline;">Table Height</span></p>
+<ul>
+<li>Low - 28" H</li>
+<li>Counter - 35.4" H</li>
+<li>Bar - 39.5" H</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135446007923</id>
+      <title>Low Table - Small</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135446007923</id>
+      <title>Low Table - Large</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135446007923</id>
+      <title>High Counter Table - Small</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135446007923</id>
+      <title>High Counter Table - Large</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135446007923</id>
+      <title>High Bar Table - Small</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135446007923</id>
+      <title>High Bar Table - Large</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7135443910771</id>
+    <published>2023-05-03T20:33:43-04:00</published>
+    <updated>2023-05-03T20:33:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/nest-easy"/>
+    <title>Nest Easy</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Hightower</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/NestEasy.png?v=1683160425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hightower<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span>The Nest Collection includes lounge sofas, chairs, and tables in two heights, encouraging a more social atmosphere. Use the varying heights together or separately to create both balance and division within a space.</p>
+<p>Nest Easy is the latest addition to the popular Nest series from Swedish design powerhouse Form Us with Love. The modern, open Nest Easy gives the user privacy in even the most open of spaces - the perfect solution for those essential quiet moments. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135443910771</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7135399313523</id>
+    <published>2023-05-03T15:13:14-04:00</published>
+    <updated>2023-05-03T15:13:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/continental-lounge-seating"/>
+    <title>Continental</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Hightower</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Hightower_Continental_Sofa_Front.jpg?v=1683141191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hightower<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Continental was designed for exceptionally relaxed comfort and constructed with high-resilience foam to maintain its shape. Available as a lounge chair and a sofa. Graded-In textiles only.</span></p>
+<h3><span>Specifications:</span></h3>
+<ul>
+<li><span>89.74” W x 37.5” D x 28.25” H</span></li>
+<li><span>16.25” Seat Height</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7135399313523</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130629832819</id>
+    <published>2023-04-20T20:41:59-04:00</published>
+    <updated>2023-04-20T20:41:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/alice-chaise-lounge-chair"/>
+    <title>Alice Chaise</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Sossego</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/AliceMainProductImage.png?v=1682954496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sossego<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="">A lower, deeper sit than the Alice Lounge Chair, it’s the ultimate relaxing piece. Sink into the cloud and let the world fade away. Ideally paired with the Alice Ottoman. </p>
+<p class="">“It is a playful, childlike dream of sitting on clouds, named for my very happy and youngest child.” Aristeu Pires – Designer</p>
+<p class="">Available in a variety of finishes.</p>
+<h3>Specifications:</h3>
+<p><span style="text-decoration: underline;">Lounge Chair:</span></p>
+<ul>
+<li>
+<span style="text-decoration: underline;"></span>32" H x 29.15" W x 37" D<br>
+</li>
+<li>17.5" Seat Height</li>
+<li>21" Arm Height</li>
+</ul>
+<p><span style="text-decoration: underline;">Ottoman:</span></p>
+<ul>
+<li>18.4" H x 26.5" W x 18.25" D</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130629832819</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130629079155</id>
+    <published>2023-04-20T20:33:20-04:00</published>
+    <updated>2023-04-20T20:33:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/karla-armchair"/>
+    <title>Karla</title>
+    <s:type>Armchair</s:type>
+    <s:vendor>Sossego</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/KarlaMainProductImage.png?v=1682966844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sossego<br>
+        <strong>Type: </strong>Armchair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class=""><span>The beauty of the Karla Armchair is in its back detail; the initial design formed a “k,” but the final version morphed to a symmetrical imagination of the letter. Characteristic of Art Nouveau, the curved leaf design supports the ample backrest and cushioned seat, both inset in a wood frame. A differentiator within the Sossego collection is the upholstery visible from both front and back.</span></p>
+<p>An enormous leaf rooted in the bucolic grounds of his manufacturing facility inspired the intriguing back lines of the Karla Armchair. Named for the first crush of his youth, Karla the woman is determined and focused. Visually delicate, the chair is superior in strength. Like Karla.</p>
+<p class="">Modern dining chair by <a href="http://sossegodesign.com/designers/">Aristeu Pires</a> handcrafted from sustainably harvested Brazilian hardwood.</p>
+<h3>Specifications:</h3>
+<ul>
+<li>30.2" H x 22.7" W x 22.5" D</li>
+<li>17.3" Seat Height</li>
+<li>26.4" Arm Height</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130629079155</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130627637363</id>
+    <published>2023-04-20T20:16:22-04:00</published>
+    <updated>2023-04-20T20:16:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/angela-armchair"/>
+    <title>Angela</title>
+    <s:type>Armchair</s:type>
+    <s:vendor>Sossego</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/AngelaMainProductImage.png?v=1682961839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sossego<br>
+        <strong>Type: </strong>Armchair<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="">Angela: the remarkable dining chair with brass or silver accents. The uprightness of a wood dining chair with a slight hammock sort of hug to hold the spine just so. Whether turning to beckon the guest to your left or conversing across the table, the Angela has got your back. The hand-sculpted curve under each arm is soothing to touch; the brass or silver trim lends just a touch of sparkle to this unique piece.</p>
+<p class="">Modern dining chair by <a href="http://sossegodesign.com/designers/">Aristeu Pires</a> handcrafted from sustainably harvested Brazilian hardwood.</p>
+<p class="">Available in a variety of finishes.</p>
+<h3>Specifications:</h3>
+<ul>
+<li>29.8" H x 23.9" W x 21.5" D</li>
+<li>17" Seat Height</li>
+<li>26" Arm Height</li>
+</ul>
+<p><a href="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Angela_Armchair_-_Spec_Sheet.pdf?v=1682036009" target="_blank"><strong>Spec Sheet</strong></a> <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130627637363</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+    <published>2023-04-20T08:51:45-04:00</published>
+    <updated>2023-04-20T08:51:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/crest-privacy-lounge-ottoman"/>
+    <title>Crest Privacy</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Trinity Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/CrestMainProductImage.png?v=1682962139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trinity Furniture<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The newest addition to Trinity Furniture's lounge seating features a new silhouette with softly padded arms that flow into sculptural wings that are shaped to offer a sanctuary of privacy. Crest is crafted with elegant stitching details and seating comfort is enhanced with the addition of an attached headrest pillow. Additionally, base selections include tapered wooden legs, metal tubular legs, and a flat polished aluminum base for the Crest lounge pieces, as well as for the matching ottomans.</span></p>
+<h4><span>Specifications:</span></h4>
+<p><span style="text-decoration: underline;">Lounge Chair</span></p>
+<ul>
+<li>31.5" W x 31" D x 45.5" H</li>
+<li>75 lbs</li>
+</ul>
+<p><span style="text-decoration: underline;">Ottoman</span></p>
+<ul>
+<li>25.25" W x 21.75" D x 15" H</li>
+<li>30 lbs</li>
+</ul>
+<h3><span></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Healthcare</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+      <title>Wooden Legs</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+      <title>Metal Legs</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+      <title>Aluminum Base</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

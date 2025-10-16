@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://businessinteriors-depot.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://businessinteriors-depot.ca/collections/healthcare.atom"/>
+  <title>PBJ Business Interiors</title>
+  <updated>2024-07-24T11:54:55-04:00</updated>
+  <author>
+    <name>PBJ Business Interiors</name>
+  </author>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715718004851</id>
+    <published>2024-07-24T11:54:55-04:00</published>
+    <updated>2024-07-24T11:54:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/ergocentric-healthcare-2"/>
+    <title>ergocentric healthcare 2</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/healthCentric-_Exam-Room-min.jpg?v=1721836492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715718004851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715716006003</id>
+    <published>2024-07-24T11:53:00-04:00</published>
+    <updated>2024-07-24T11:53:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/trinity-healthcare-patient-room"/>
+    <title>trinity healthcare patient room</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Serene_2024-07-24T15_52_50.885Z.png?v=1721836373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715716006003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715712598131</id>
+    <published>2024-07-24T11:50:39-04:00</published>
+    <updated>2024-07-24T11:50:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/trinity-retirement-home"/>
+    <title>trinity retirement home</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Ace_Assisted-Living-Environmental.jpg?v=1721836417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715712598131</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715707289715</id>
+    <published>2024-07-24T11:46:45-04:00</published>
+    <updated>2024-07-24T11:46:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sitonit-healthcare"/>
+    <title>sitonit healthcare</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/img_5.jpg?v=1721836002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715707289715</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715706142835</id>
+    <published>2024-07-24T11:45:39-04:00</published>
+    <updated>2024-07-24T11:45:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sit-on-it-healthcare-1"/>
+    <title>sit on it healthcare 1</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Healthcare-LP-tile-Patients-Guests-728x577.jpg?v=1721835936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715706142835</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7715678093427</id>
+    <published>2024-07-24T11:09:20-04:00</published>
+    <updated>2024-07-24T11:09:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/ergocentric-healthcare"/>
+    <title>ergocentric healthcare</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/ERG031-Healthcare-Facilities-Env-1-Nurse-Station.jpg?v=1721833746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7715678093427</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713692188787</id>
+    <published>2024-07-23T14:57:08-04:00</published>
+    <updated>2024-07-23T14:57:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/healthcare-waiting"/>
+    <title>healthcare waiting</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/4-Evolve_1880-Group.jpg?v=1721761018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713692188787</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713666400371</id>
+    <published>2024-07-23T14:34:38-04:00</published>
+    <updated>2024-07-23T14:34:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/treatment-area"/>
+    <title>treatment area</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/EVOLVE_1825_TreatmentArea_1.jpg?v=1721759847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713666400371</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713662009459</id>
+    <published>2024-07-23T14:31:21-04:00</published>
+    <updated>2024-07-23T14:31:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/healthcare-patient-room"/>
+    <title>healthcare patient room</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Evolve-Infusion-Recliner.jpg?v=1721759577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713662009459</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713653194867</id>
+    <published>2024-07-23T14:23:48-04:00</published>
+    <updated>2024-07-23T14:23:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/sleeper"/>
+    <title>sleeper</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Replay-Back-Flip-Sleeper_22.jpg?v=1721759019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713653194867</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713604468851</id>
+    <published>2024-07-23T13:45:03-04:00</published>
+    <updated>2024-07-23T13:45:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/kirchberg-hospital"/>
+    <title>kirchberg hospital</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/kirchberg-hospital2-hr-scaled.jpg?v=1721756689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713604468851</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713603420275</id>
+    <published>2024-07-23T13:43:43-04:00</published>
+    <updated>2024-07-23T13:43:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/healthcare-seating-long-couch"/>
+    <title>healthcare seating long couch</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Fair_Square2_1300x700_a7fa0e10-e24a-4098-9e87-62414cb787a3.jpg?v=1721756611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713603420275</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713593524339</id>
+    <published>2024-07-23T13:31:00-04:00</published>
+    <updated>2024-07-23T13:31:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/wooden-healthcare-bench"/>
+    <title>wooden healthcare bench</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/akuten-malmo3-hr-1200x801.jpg?v=1721755855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713593524339</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713591033971</id>
+    <published>2024-07-23T13:28:35-04:00</published>
+    <updated>2024-07-23T13:28:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/hospital-guest-seating"/>
+    <title>hospital guest seating</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Austen_Enviro_Horizontal11.jpg?v=1721755707"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713591033971</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713590411379</id>
+    <published>2024-07-23T13:27:38-04:00</published>
+    <updated>2024-07-23T13:27:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/healthcare-couch"/>
+    <title>healthcare couch</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/EVOLVE_1847_Back-Flip_PatientRoom.jpg?v=1721755648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713590411379</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7713589952627</id>
+    <published>2024-07-23T13:27:03-04:00</published>
+    <updated>2024-07-23T13:27:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/hospital-recliner"/>
+    <title>hospital recliner</title>
+    <s:type></s:type>
+    <s:vendor>PBJ Business Interiors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/1055-A_Recliner_Environment1.jpg?v=1721755613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PBJ Business Interiors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7713589952627</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130626982003</id>
+    <published>2023-04-20T20:03:13-04:00</published>
+    <updated>2023-04-20T20:03:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/facelift-serpentine-benches"/>
+    <title>Facelift Serpentine</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Trinity Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/SerpentineMainProductImage.png?v=1682962320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trinity Furniture<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Serpentine is a unique renewable seating and table alternative to existing healthcare and high traffic interior applications. Part of our Facelift Collection, Serpentine consists of individual lounge chairs / sofas, straight and wedge lounge component seating, benches, and tables. A variety of upholstered, wood, urethane and tablet arms are integrated into this extremely flexible seating collection. Made in the USA with a Lifetime Warranty.</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/Facelift_Serpentine_Brochure.pdf?v=1682035232" target="_blank" rel="noopener noreferrer"><strong>Facelift Serpentine Brochure</strong></a></p>
+<p><span><a title="Facelift Sleepover" href="https://youtu.be/s6BKWWIsqpY" data-mce-href="https://youtu.be/s6BKWWIsqpY" target="_blank"><strong>Trinity Facelift Video</strong></a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130626982003</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130625769587</id>
+    <published>2023-04-20T19:52:32-04:00</published>
+    <updated>2023-04-20T19:52:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/ace-wallsaver-recliner"/>
+    <title>Ace Wallsaver</title>
+    <s:type>Recliner</s:type>
+    <s:vendor>Trinity Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/AceMainProductImage_4497319e-a96b-4b8b-b79a-1694ef256a3e.png?v=1682954411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trinity Furniture<br>
+        <strong>Type: </strong>Recliner<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">Trinity is pleased to introduce Ace, our newest recliner designed with common sense features tailored for senior living and healthcare applications. Ace incorporates an innovative, but simple, approach to maintenance using a completely sealed seat cushion system that prevents liquids and debris from migrating downward and accumulating into the interior crevices and recliner mechanism. The removable seat cushion has Velcro attached upholstery and is completely encapsulated in an antimicrobial moisture barrier. And when the seat is removed, the sealed under seat decking is exposed for an unobstructed deep cleaning. The sculptured back cushion upholstery is also attached with Velcro and protected with antimicrobial moisture barrier. The ottoman surfaces are designed with breakaway padded edges that will soften any pressure on the heel, ankle and calf while in the reclined positions. Ace may be placed in close proximity to a wall requiring only 7” of clearance. Base options include tapered wooden legs, tapered aluminum legs, locking swivel casters and a 360˚ swivel metal base.</span></p>
+<p><span data-mce-fragment="1">Available in a variety of finishes.</span></p>
+<h3><span data-mce-fragment="1">Specifications:</span></h3>
+<ul>
+<li><span data-mce-fragment="1">29" W x 33" D x 46.5" H</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130625769587</id>
+      <title>Wooden Legs</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130625769587</id>
+      <title>Aluminum Legs</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130625769587</id>
+      <title>Locking Swivel Casters</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130625769587</id>
+      <title>360° Swivel Metal Base</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130471727219</id>
+    <published>2023-04-20T09:13:05-04:00</published>
+    <updated>2023-04-20T09:13:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/facelift-evolve-sleepover"/>
+    <title>Facelift Evolve Sleepover</title>
+    <s:type>Sleepover</s:type>
+    <s:vendor>Trinity Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/FaceliftMainProductImage.png?v=1682962214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trinity Furniture<br>
+        <strong>Type: </strong>Sleepover<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Available in three distinct styles, the Sleepover lounge seating pays meticulous attention to detail and quality construction. The Sleepover easily glides from being fully upright into a completely flat full length sleep surface. Designed for interiors where space is limited, the Sleepover requires zero wall clearance. Standard features include Velcro attached upholstery and a full antimicrobial moisture barrier protecting all cushioning. Proudly made in the USA with a lifetime warranty. Certified: BIFMA Level Sustainability Standard.</span></p>
+<h3><span>Specifications:</span></h3>
+<p><span><span style="text-decoration: underline;">Lounge Chair:</span><br></span></p>
+<ul>
+<li>33.5" W x 34.5" D x 33" H</li>
+<li>175 lbs</li>
+</ul>
+<p><span style="text-decoration: underline;">Two Place Sofa:</span></p>
+<ul>
+<li>53" W x 34.5" D x 33" H</li>
+<li>220 lbs</li>
+</ul>
+<p><span style="text-decoration: underline;">Sleeper Sofa:</span></p>
+<ul>
+<li>76" W x 36" D x 36" H</li>
+<li>235 lbs</li>
+</ul>
+<p> </p>
+<p><span style="text-decoration: underline;"><a href="https://youtu.be/s6BKWWIsqpY" title="Facelift Sleepover" target="_blank" rel="noopener noreferrer"><strong>Trinity Facelift Video</strong></a></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130471727219</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+    <published>2023-04-20T08:51:45-04:00</published>
+    <updated>2023-04-20T08:51:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/crest-privacy-lounge-ottoman"/>
+    <title>Crest Privacy</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>Trinity Furniture</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/CrestMainProductImage.png?v=1682962139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trinity Furniture<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The newest addition to Trinity Furniture's lounge seating features a new silhouette with softly padded arms that flow into sculptural wings that are shaped to offer a sanctuary of privacy. Crest is crafted with elegant stitching details and seating comfort is enhanced with the addition of an attached headrest pillow. Additionally, base selections include tapered wooden legs, metal tubular legs, and a flat polished aluminum base for the Crest lounge pieces, as well as for the matching ottomans.</span></p>
+<h4><span>Specifications:</span></h4>
+<p><span style="text-decoration: underline;">Lounge Chair</span></p>
+<ul>
+<li>31.5" W x 31" D x 45.5" H</li>
+<li>75 lbs</li>
+</ul>
+<p><span style="text-decoration: underline;">Ottoman</span></p>
+<ul>
+<li>25.25" W x 21.75" D x 15" H</li>
+<li>30 lbs</li>
+</ul>
+<h3><span></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Educational</s:tag>
+    <s:tag>Healthcare</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+      <title>Wooden Legs</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+      <title>Metal Legs</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7130469728371</id>
+      <title>Aluminum Base</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://businessinteriors-depot.ca/products/7078030213235</id>
+    <published>2023-01-06T13:58:19-05:00</published>
+    <updated>2023-01-06T13:58:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://businessinteriors-depot.ca/products/cameo-lounge-seating"/>
+    <title>Cameo</title>
+    <s:type>Lounge Seating</s:type>
+    <s:vendor>SitOnIt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0580/0709/3363/files/CameoMainProductImage.png?v=1682962042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SitOnIt<br>
+        <strong>Type: </strong>Lounge Seating<br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="title lubalin-book"><em>Sleek, chic + unique.</em></h3>
+<p><span data-mce-fragment="1">Tap into timeless beauty with a new take on an old classic. Cameo™ dares to move past tufted, boxy and overly square designs – both in shape and attitude. This inspired collection from world-renowned architect and designer Claudio Bellini balances perfect proportions of slenderness with just enough contouring so that it feels as good as it looks.</span></p>
+<h3>Features:</h3>
+<ul>
+<li>
+<p>Add a lightweight, modern look with slim ribbon leg design</p>
+</li>
+<li>
+<p>Promote all-around comfort with contoured seat, back and arms</p>
+</li>
+<li>
+<p>Complement seating with freestanding and modular inline and corner tables</p>
+</li>
+<li>
+<p>Choose between single-, two-, and three-seater seats and benches</p>
+</li>
+<li>
+<p>Design for traditional and modular configurations</p>
+</li>
+<li>
+<p>Create single-arm, dual-arm and armless configurations</p>
+</li>
+<li>
+<p>Build tables using five laminate top options</p>
+</li>
+<li>
+<p>Choose between charcoal, bronze or chrome sled-leg bases</p>
+</li>
+<li>
+<p>Designed by Claudio Bellini</p>
+</li>
+<li>
+<p>Weight capacity warranty: 400 lb for single-seater; 800 lb for two- and three-seater</p>
+</li>
+<li>
+<p>CAL 133 approved</p>
+</li>
+<li>
+<p>12-year warranty</p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Healthcare</s:tag>
+    <s:tag>Hospitality</s:tag>
+    <s:variant>
+      <id>https://businessinteriors-depot.ca/products/7078030213235</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
